@@ -4,7 +4,7 @@
   "ssl-required": "external",
   "disable-trust-manager": true,
   "allow-any-hostname": true,
-  "resource": "myapp-onagano",
+  "resource": "myapp-mikeda19",
   "public-client": true,
   "confidential-port": 0
 }
